@@ -9,5 +9,3 @@ dependencies:
   - seaborn
   - scipy
   - statsmodels
-  - sympy
-  - ipympl
